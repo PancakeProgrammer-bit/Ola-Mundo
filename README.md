@@ -1,3 +1,3 @@
-# Olá, Mundo!
+# Olá Mundo
  first versionate repository
- Repository created while following instructions from a recorded class about GitHub
+ # Repository created following instructions from a recorded GitHub videoclass 
